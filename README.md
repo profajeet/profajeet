@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I am a **PhD Research Scholar** at **:contentReference[oaicite:0]{index=0}**, working at the **Center of Space Science & Technology (CSST)**.  
+I am a **PhD Research Scholar** at **Indian Institute of Technology Roorkee (IIT Roorkee)**, working at the **Center of Space Science & Technology (CSST)**.  
 My research interests lie at the intersection of **intelligent systems, embedded platforms, space technologies, and applied AI**.
 
 With a strong foundation in **Electronics & Communication Engineering** and industry experience as a **Software Engineer**, I focus on building **practical, scalable, and research-driven solutions** rather than purely theoretical models.
@@ -54,7 +54,7 @@ Alongside my PhD, I am building an **R&D-focused startup ecosystem**, aiming to 
 
 ## 📫 Connect
 
-- GitHub: You’re already here 🙂  
+- GitHub: You’re already here 🙂
 - Open to research collaboration, open-source contributions, and deep technical discussions
 
 
