@@ -1,5 +1,61 @@
-# 💫 About Me:
-About Me<br><br>I am a PhD Research Scholar at Indian Institute of Technology Roorkee, working at the Center of Space Science & Technology (CSST).<br>My research interests lie at the intersection of intelligent systems, embedded platforms, space technologies, and applied AI.<br><br>With a strong foundation in Electronics & Communication Engineering and industry experience as a Software Engineer, I focus on building practical, scalable, and research-driven solutions rather than purely theoretical models.<br><br>🧠 Research & Technical Interests<br><br>Intelligent embedded systems for space and terrestrial applications<br><br>Smart antennas, sensor systems, and hardware–software co-design<br><br>AI/ML, Generative AI, and Agentic AI for real-world systems<br><br>Signal processing, automation, and system intelligence<br><br>Translational research: paper → prototype → product<br><br>💻 Technical Skills<br><br>Programming & Tools<br><br>Python, C/C++, Bash<br><br>AI/ML, Deep Learning, LLMs, Prompt Engineering<br><br>Embedded systems, microcontrollers, system integration<br><br>Domains<br><br>Space systems & intelligent instrumentation<br><br>Automation, data analysis, and decision-support systems<br><br>Open-source research tooling and reproducible experiments<br><br>🚀 Open-Source & Vision<br><br>I actively use GitHub as a research lab notebook + engineering workspace to:<br><br>Share reproducible research code<br><br>Build experimental prototypes<br><br>Develop open-source tools for AI, embedded systems, and automation<br><br>Alongside my PhD, I am building an R&D-focused startup ecosystem, aiming to bridge academic research, grassroots innovation (Jugaad), and real-world impact, particularly in the Indian context.<br><br>🎯 Current Focus<br><br>PhD research in space science & intelligent systems<br><br>AI-powered embedded and smart devices<br><br>Open-source research tools and frameworks<br><br>Long-term goal: scientist–engineer–entrepreneur<br><br>📫 Connect<br><br>GitHub: You’re already here 🙂<br><br>Open to research collaboration, open-source contributions, and deep technical discussions
+## 👋 About Me
+
+I am a **PhD Research Scholar** at **:contentReference[oaicite:0]{index=0}**, working at the **Center of Space Science & Technology (CSST)**.  
+My research interests lie at the intersection of **intelligent systems, embedded platforms, space technologies, and applied AI**.
+
+With a strong foundation in **Electronics & Communication Engineering** and industry experience as a **Software Engineer**, I focus on building **practical, scalable, and research-driven solutions** rather than purely theoretical models.
+
+---
+
+## 🧠 Research & Technical Interests
+
+- Intelligent embedded systems for space and terrestrial applications  
+- Smart antennas, sensor systems, and hardware–software co-design  
+- AI/ML, Generative AI, and Agentic AI for real-world systems  
+- Signal processing, automation, and system intelligence  
+- Translational research: **paper → prototype → product**
+
+---
+
+## 💻 Technical Skills
+
+### Programming & Tools
+- Python, C/C++, Bash  
+- AI/ML, Deep Learning, LLMs, Prompt Engineering  
+- Embedded systems, microcontrollers, system integration  
+
+### Domains
+- Space systems & intelligent instrumentation  
+- Automation, data analysis, and decision-support systems  
+- Open-source research tooling and reproducible experiments  
+
+---
+
+## 🚀 Open-Source & Vision
+
+I actively use GitHub as a **research lab notebook + engineering workspace** to:
+
+- Share reproducible research code  
+- Build experimental prototypes  
+- Develop open-source tools for AI, embedded systems, and automation  
+
+Alongside my PhD, I am building an **R&D-focused startup ecosystem**, aiming to bridge **academic research, grassroots innovation (Jugaad), and real-world impact**, particularly in the Indian context.
+
+---
+
+## 🎯 Current Focus
+
+- PhD research in space science & intelligent systems  
+- AI-powered embedded and smart devices  
+- Open-source research tools and frameworks  
+- Long-term goal: **scientist–engineer–entrepreneur**
+
+---
+
+## 📫 Connect
+
+- GitHub: You’re already here 🙂  
+- Open to research collaboration, open-source contributions, and deep technical discussions
 
 
 ## 🌐 Socials:
